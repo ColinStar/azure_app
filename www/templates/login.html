@@ -1,0 +1,28 @@
+<ion-modal-view ng-controller="LoginCtrl">
+    <ion-header-bar>
+        <h1 class="title">{{l_login}}</h1>
+        <div class="buttons">
+            <button class="button button-clear" ng-click="closeLogin()">{{l_close}}</button>
+        </div>
+    </ion-header-bar>
+    <ion-content scroll="false" on-swipe-down="closeLogin()">
+        <form ng-submit="doLogin()">
+            <div class="list">
+                <label class="item item-input">
+                    <span class="input-label">{{l_user}}</span>
+                    <input type="text" ng-model="loginData.UserName">
+                </label>
+                <label class="item item-input">
+                    <span class="input-label">{{l_passwd}}</span>
+                    <input type="password" ng-model="loginData.Password">
+                </label>
+                <label class="item">
+                    <button class="button button-block button-positive" type="submit">{{l_login}}</button>
+                </label>
+            </div>
+        </form>
+        <label class="item">
+            <button class="button button-block button-balanced" ng-click="signup()">{{l_signup}}</button>
+        </label>
+    </ion-content>
+</ion-modal-view>

@@ -1,0 +1,39 @@
+﻿{
+  "companies": [
+    {
+      "imgPath": "http://ac-mbqjf2p8.clouddn.com/vPKsSMeWsMqQK94rHK1X6RfKSPaOJFKnCedflTyJ.jpg",
+      "index": 0,
+      "name": "台州电镀厂",
+      "in": "台州市黄岩光明电镀厂座落在闻名全国的'蜜橘之乡'――浙江黄岩，本厂设备先进，技术力量雄厚，专业加工模具镀硬铬、（塑料模具，橡胶模具，挤出板材模具，轴承内缺超差修复）、滚筒、机械产品。",
+      "location": "台州"
+    },
+    {
+      "imgPath": "http://ac-mbqjf2p8.clouddn.com/vNMONJy8hR1IGXArB4qn91nsdlqc7r5bx2GOf3HE.jpg",
+      "index": 1,
+      "name": "杭州州造纸厂",
+      "in": "杭州造纸厂主要经营：null等产品。公司尊崇“踏实、拼搏、责任”的企业精神，并以诚信、共赢、开创经营理念，创造良好的企业环境，以全新的管理模式，完善的技术，周到的服务，卓越的品质为生存根本，我们始终坚持用户至上 用心服务于客户，坚持用自己的服务去打动客户。",
+      "location": "杭州"
+    },
+    {
+      "imgPath": "http://ac-mbqjf2p8.clouddn.com/COlkaoOP3YGIfCwIwgVzteEn0bSWd2gl1hMMyz6K.jpg",
+      "index": 2,
+      "name": "海宁皮革厂",
+      "in": " 海宁市亚兰工贸有限公司/海宁市欧兰纺织有限公司是一家专业生产家纺面料供应商。产品主要包括：麂皮绒，人造革（PU/PVC），人造毛绒及相关复合后加工面料。我们同时拥有多种后加工生产工艺技术，如下：复合，烫金，涂层，印花，植绒，折褶，压胶 等。我公司产品主要用于:家纺，服装，鞋帽，玩具，箱包用布，汽车&家庭装饰 等。我公司还可根据客户来样定做不同规格、不同品种的产品，深受国内外客商的青睐。",
+      "location": "海宁"
+    },
+    {
+      "imgPath": "http://ac-mbqjf2p8.clouddn.com/AQIPmc6rFVHuKysxnyNQpfyuFOhDdTrnRb1TEGQF.jpg",
+      "index": 3,
+      "name": "江西发电厂",
+      "in": "江西景德镇发电有限责任公司是中国电力投资集团公司江西分公司下属火力发电企业，座落于中外驰名的瓷都景德镇，环境优美，交通便捷，旅游资源丰富。截至2009年底，公司总装机容量达42.5万千瓦，在职员工1000余人，各类专业技术人员300多人。",
+      "location": "江西"
+    },
+    {
+      "imgPath": "http://ac-mbqjf2p8.clouddn.com/MXHcH5ECHAgrwYn5qDvsmkKnaHX5wQKhH7Cdr4yH.jpg",
+      "index": 4,
+      "name": "东莞化工厂",
+      "in": "1958年创建于香港的田氏化工有限公司，半个世纪以来一直带领着亚太区PVC人造革设计及制造业的发展，产品畅销中国、日本、法国、德国、加拿大、美国等世界主要国家。她的丰富经验备受推崇，成就足以自豪，在皮革行业享有盛誉，被喻为“人造革大王”",
+      "location": "东莞"
+    }
+  ]
+}

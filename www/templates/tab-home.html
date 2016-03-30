@@ -1,0 +1,164 @@
+<ion-view view-title="主页" hide-nav-bar="true">
+    <ion-content scroll="true" class="home-img" scrollbar-y="false" paging="true" tabs-shrink>
+        <ion-refresher pulling-text="Pull to refresh..." on-refresh="doDoRefresh()"></ion-refresher>
+        <div on-swipe-up="scrollTo2()" id="home1" style="height: {{contentHeight}}px">
+            <div id="home-top">
+                <a ng-click="shareHome()" class="button button-icon ion-share"></a>
+                <div id="date">
+                    {{date}}
+                </div>
+                <div id="city">
+                    <i class="icon ion-ios-location"></i> {{city}}
+                </div>
+            </div>
+
+            <div id="maininfo">
+                <div id="qbars">
+                    <div class="bg-blur">
+                        <p>空气质量指数</p>
+                        <p id="quality">
+                        {{quality}}
+                        </p>
+                    </div>
+                    <div id="qdesc" style="background-color: {{descolor}}">
+                        {{desc}}
+                    </div>
+                </div>
+
+                <div class="row row-line">
+                    <div class="col col-33"><i class="icon icon-weather {{weatherIcon}}"></i> <b>{{weather}}</b></div>
+                    <div class="col col-line col-33"><i class="icon icon-weather ion-thermometer"></i> <b>{{temperature}}</b></div>
+                    <div class="col col-line col-33"><i class="icon icon-weather ion-waterdrop"></i> <b>{{humidity}}</b></div>
+                </div>
+                <a nav-direction="exit" ng-click="scrollTo2()">
+                    <p id="home-next">
+                    <i class="icon ion-chevron-down icon-accessory"></i>
+                    </p>
+                </a>
+            </div>
+        </div>
+
+        <div class="padding home-overlay" id="home2" ng-controller="GraphCtrl">
+            <!--
+                <pie-chart style="height: 30px; width:30px;" data="gauge_data" options="gauge_options"></pie-chart>
+
+                <div on-swipe-down="scrollTop()"></div>
+            -->
+
+            <div id="home2-info">
+                <div class="row row-bottomline card">
+                    <div class="col">大气指标</div>
+                    <div class="col">健康建议</div>
+                </div>
+                <!-- other -->
+                <div class="row nopadding" ng-repeat="one in info" ng-if="$index < 6">
+                    <div class="col" style="border-bottom: 2px solid {{one.color}}">
+                        <i class="icon {{one.icon}} table-icon-left"></i>
+                        <span ng-bind-html="one.name" class="pollutant-name"></span>
+                        <br>
+                        <span class="pollutant-unit">ug/m<sup>3</sup></span>
+                        <span class="pollutant-load">{{one.value}}</span>
+                    </div>
+                    <div class="col" style="border-bottom: 2px solid {{one.advice.color}}" ng-if="$index < 4">
+                        <i class="icon {{one.advice.icon}} table-icon-left"></i>
+                        <span class="advice-name">{{one.advice.name}}</span>
+                        <br>
+                        <span class="advice-hint">{{one.advice.hint}}</span>
+                    </div>
+                    <div class="col" ng-if="$index > 3" style="visibility: hidden;"></div>
+                </div>
+                <div class="row nopadding">
+                    <div class="col" style="border-bottom: 2px solid {{descolor}}; position: relative;">
+                        <i class="icon ion-ios-partlysunny table-icon-left" style="visibility: hidden;"></i>
+                        <span id="col-desc">{{desc}}</span>
+                    </div>
+                    <div class="col" style="visibility: hidden;"></div>
+                </div>
+
+                <div id="guagua" style="height:{{width*.54}}px; width: {{width*.54}}px; border:0; padding:10px;"></div>
+
+            </div>
+
+            <div class="switch-right switch-toggle switch-candy">
+                <input id="week" name="view" type="radio" ng-click="showWeek()" checked>
+                <label for="week">一周空气质量走势</label>
+
+                <input id="month" name="view" type="radio" ng-click="showMonth()">
+                <label for="month">30天空气质量走势</label>
+
+                <a></a>
+            </div>
+
+            <div id="acchart">
+                <div ng-show="weekLine" ac-chart="chartType" ac-data="chartWeekData" ac-config="chartConfig" style="height: 400px;" class='home2-chart'></div>
+                <div ng-show="!weekLine" ac-chart="chartType" ac-data="chartMonthData" ac-config="chartConfig" style="height: 400px;" class='home2-chart'></div>
+            </div>
+            <!-- <div id="sEline" style="height:{{width*.9}}px; width: {{width*.96}}px; border:0px; padding:10px;"></div> -->
+        </div>
+
+        <div id="home-table">
+
+            <div class="row row-header">
+                <div class="col col-10">
+                    <a href="" ng-click="predicate = showCol; reverse=!reverse">
+                        <span ng-switch on="reverse">
+                            <i ng-switch-when="false" class="icon ion-arrow-up-b"></i>
+                            <i ng-switch-when="true" class="icon ion-arrow-down-b"></i>
+                        </span>
+                    </a>
+                </div>
+                <div class="col col-A">监测点</div>
+                <div class="col col-B">
+                    <select ng-model="showCol" ng-change="changeCol(showCol)">
+                        <option value='aqi' selected>AQI指数</option>
+                        <option value='pm2_5'>PM2.5</option>
+                        <option value='pm10'>PM10</option>
+                        <option value='o3'>O<sub>3</sub></option>
+                        <option value='so2'>SO<sub>2</sub></option>
+                        <option value='no2'>NO<sub>2</sub></option>
+                        <option value='co'>CO</option>
+                    </select>
+                </div>
+                <div class="col col-B">首要污染物</div>
+            </div>
+
+            <div class="row" ng-repeat="record in records | orderBy: predicate: reverse">
+                <div ng-switch on="reverse" class="col col-10">
+                    <div ng-switch-when="true">{{records.length - $index}}</div>
+                    <div ng-switch-when="false">{{$index + 1}}</div>
+                </div>
+                <div class="col col-A">{{record.position_name}}</div>
+                <div class="col round col-B" style="color: {{record.textColor}}; background-color: {{levelColor(record)}}">{{record.value}}</div>
+                <div class="col col-C">{{record.primary_pollutant}}</div>
+            </div>
+
+            <div class="row row-footer">
+                <div class="col col-10">
+                    <a href="" ng-click="predicate = showCol; reverse=!reverse">
+                        <span ng-switch on="reverse">
+                            <i ng-switch-when="false" class="icon ion-arrow-up-b"></i>
+                            <i ng-switch-when="true" class="icon ion-arrow-down-b"></i>
+                        </span>
+                    </a>
+                </div>
+                <div class="col col-A">监测点</div>
+                <div class="col col-B">
+                    <select ng-model="showCol" ng-change="changeCol(showCol)">
+                        <option value='aqi' selected>AQI指数</option>
+                        <option value='pm2_5'>PM2.5</option>
+                        <option value='pm10'>PM10</option>
+                        <option value='o3'>O<sub>3</sub></option>
+                        <option value='so2'>SO<sub>2</sub></option>
+                        <option value='no2'>NO<sub>2</sub></option>
+                        <option value='co'>CO</option>
+                    </select>
+                </div>
+                <div class="col col-C">首要污染物</div>
+            </div>
+        </div>
+
+        <div id="home-footer">
+        </div>
+
+    </ion-content>
+</ion-view>

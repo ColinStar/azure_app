@@ -1,0 +1,11 @@
+{
+  "name": "testAir",
+  "app_id": "",
+  "browsers": [
+    {
+      "platform": "android",
+      "browser": "crosswalk",
+      "version": "13.41.318.0"
+    }
+  ]
+}

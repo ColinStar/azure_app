@@ -1,0 +1,40 @@
+<style>.tabs {display: none;}</style>
+<ion-view view-title="今日空气质量查询">
+    <ion-content class="padding">
+        <label class="item item-input">
+            <span class="input-label">城市</span>
+            <input type="text" ng-model="userInput.city">
+        </label>
+        <!-- <button class="button button-block button-positive" ng-click="doSearch()">
+            搜索
+        </button> -->
+        <div id="aqi-table" ng-show="showTable">
+            <div class="row header-row">
+                <div class="col">更新时间</div>
+                <div class="col">城市</div>
+                <!-- <div class="col">日期</div> -->
+                <div class="col">
+                        AQI指数
+                    <!-- <a href="" ng-click="recordsToday = recordsToday; reverse=!reverse">
+                        AQI指数
+                        <span ng-switch on="reverse">
+                            <i ng-switch-when="false" class="icon ion-arrow-up-b"></i>
+                            <i ng-switch-when="true" class="icon ion-arrow-down-b"></i>
+                        </span>
+                    </a> -->
+                </div>
+                <div class="col">类别</div>
+                <div class="col">首要污染物</div>
+            </div>
+            <div class="row" ng-repeat="record in recordsToday | filter: userInput.city"> <!-- | orderBy: 'AQI' : reverse" ng-if="$index < 400"-->
+                <div class="col">{{record.Time}}</div>
+                <div class="col">{{record.City}}</div>
+                <!-- <div class="col">{{record.Date}}</div> -->
+                <div class="col">{{record.AQI}}</div>
+                <div class="col" style="color: {{record.textColor}}; background-color: {{record.levelColor}}">{{record.Level}}</div>
+                <div class="col">{{record.Pollutant}}</div>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>
+
