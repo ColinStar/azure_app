@@ -1,0 +1,38 @@
+<style>.tabs {display: none;}</style>
+<ion-view view-title="在线匹配">
+    <ion-content scroll="false" class="quiz-bg" style="padding: 0">
+        <div class="card list no-margin" style="padding: 0">
+
+            <div class="item no-border" style="background: url(img/quiz-bg.jpg); height: {{cardHeight-40}}px;">
+                <div style="height: {{rowHeight}}px;"></div>
+                <div style="positive: relative">
+                    <div class="row">
+                        <div class="col col-67">
+                            <div class="row row-cus">
+                                <div class="text big-text">{{myName}}</div>
+                            </div>
+                            <div class="row row-cus">
+                                <div class="text">{{myLevel}}</div>
+                            </div>
+                            <div class="row row-cus">
+                                <div class="text">{{myFrom}}</div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <img class="big-avatar" src="{{myAvatar}}">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item no-border" style="background: url(img/account-bg2.jpg); height: {{cardHeight+40}}px;">
+                <div style="height: {{rowHeight-20}}px;"></div>
+                <img class="big-avatar center" src="{{levelAvatar}}">
+                <div class="center">
+                    <div>{{message}}</div>
+                    <a class="button" ng-click="buttonAction()">{{action}}</a>
+                </div>
+            </div>
+        </div>
+
+    </ion-content>
+</ion-view>

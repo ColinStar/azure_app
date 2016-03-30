@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+    xmlns:gap="http://phonegap.com/ns/1.0"
+    xmlns:cdv="http://cordova.apache.org/ns/1.0"
+    id="com.safm.azure"
+    version="0.0.5">
+
+  <name>晴空</name>
+
+  <description>
+        城市大气污染互动监控终端
+  </description>
+
+  <author email="hi@ionicframework" href="http://ionicframework.com/">
+      S.A.F.M
+  </author>
+
+  <content src="index.html"/>
+
+  <access origin="*"/>
+
+  <preference name="webviewbounce" value="false"/>
+  <preference name="UIWebViewBounce" value="false"/>
+  <preference name="DisallowOverscroll" value="true"/>
+  <preference name="BackupWebStorage" value="none"/>
+  <preference name="SplashScreen" value="screen"/>
+  <preference name="SplashScreenDelay" value="3000"/>
+  <preference name="Orientation" value="portrait" />
+  <preference name="AndroidPersistentFileLocation" value="Internal" />
+  <preference name="iosPersistentFileLocation" value="Library" />
+
+  <feature name="Device">
+      <param name="ios-package" value="CDVDevice" />
+      <param name="android-package" value="org.apache.cordova.device.Device" />
+  </feature>
+  <feature name="File">
+      <param name="ios-package" value="CDVFile" />
+      <param name="android-package" value="org.apache.cordova.file.FileUtils" />
+  </feature>
+  <feature name="FileTransfer">
+      <param name="ios-package" value="CDVFileTransfer" />
+      <param name="android-package" value="org.apache.cordova.filetransfer.FileTransfer" />
+  </feature>
+  <feature name="StatusBar">
+    <param name="ios-package" value="CDVStatusBar" onload="true"/>
+  </feature>
+  <feature name="Geolocation">
+    <param name="ios-package" value="CDVLocation" />
+  </feature>
+
+  <platform name="android">
+    <icon src="icon.png" density="ldpi"/>
+    <icon src="icon.png" density="mdpi"/>
+    <icon src="icon.png" density="hdpi"/>
+    <icon src="icon.png" density="xhdpi"/>
+    <icon src="icon.png" density="xxhdpi"/>
+    <icon src="icon.png" density="xxxhdpi"/>
+    <splash src="splash.png" density="land-ldpi"/>
+    <splash src="splash.png" density="land-mdpi"/>
+    <splash src="splash.png" density="land-hdpi"/>
+    <splash src="splash.png" density="land-xhdpi"/>
+    <splash src="splash.png" density="land-xxhdpi"/>
+    <splash src="splash.png" density="land-xxxhdpi"/>
+    <splash src="splash.png" density="port-ldpi"/>
+    <splash src="splash.png" density="port-mdpi"/>
+    <splash src="splash.png" density="port-hdpi"/>
+    <splash src="splash.png" density="port-xhdpi"/>
+    <splash src="splash.png" density="port-xxhdpi"/>
+    <splash src="splash.png" density="port-xxxhdpi"/>
+  </platform>
+
+  <!-- PhoneGap Build Icons and SplashScreen -->
+  <icon src="icon.png" />
+  <gap:splash src="splash.png" />
+
+  <!-- Plugins -->
+  <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
+  <gap:plugin name="org.apache.cordova.camera" version="0.3.2" />
+  <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
+  <gap:plugin name="org.apache.cordova.file" version="1.3.1" />
+  <gap:plugin name="org.apache.cordova.geolocation" version="0.3.10" />
+  <gap:plugin name="org.apache.cordova.inappbrowser" version="0.5.2" />
+  <gap:plugin name="org.apache.cordova.media-capture" version="0.3.3" />
+  <gap:plugin name="org.apache.cordova.network-information" version="0.2.12" />
+  <gap:plugin name="org.apache.cordova.splashscreen" version="0.3.4" />
+  <gap:plugin name="org.apache.cordova.statusbar" version="0.1.4" />
+  <gap:plugin name="org.apache.cordova.file-transfer" version="0.4.6" />
+  <gap:plugin name="nl.x-services.plugins.socialsharing" version="4.3.8" />
+
+</widget>

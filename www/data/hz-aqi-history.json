@@ -1,0 +1,2949 @@
+[
+    {
+        "Date": "2015-05-13", 
+        "City": "杭州市", 
+        "AQI": "92", 
+        "Pollutant": "臭氧8小时", 
+        "Level": "良"
+    }, 
+    {
+        "Date": "2015-05-12", 
+        "City": "杭州市", 
+        "AQI": "63", 
+        "Pollutant": "臭氧8小时", 
+        "Level": "良"
+    }, 
+    {
+        "Date": "2015-05-11", 
+        "City": "杭州市", 
+        "AQI": "39", 
+        "Pollutant": "", 
+        "Level": "优"
+    }, 
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-05-10",
+        "Level": "良",
+        "AQI": "82"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-05-09",
+        "Level": "良",
+        "AQI": "67"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-05-08",
+        "Level": "良",
+        "AQI": "94"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-05-07",
+        "Level": "中度污染",
+        "AQI": "151"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-05-06",
+        "Level": "良",
+        "AQI": "92"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-05-05",
+        "Level": "轻度污染",
+        "AQI": "105"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-05-04",
+        "Level": "轻度污染",
+        "AQI": "134"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-05-03",
+        "Level": "良",
+        "AQI": "91"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-05-02",
+        "Level": "良",
+        "AQI": "79"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-05-01",
+        "Level": "轻度污染",
+        "AQI": "140"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-04-30",
+        "Level": "轻度污染",
+        "AQI": "138"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-04-29",
+        "Level": "良",
+        "AQI": "77"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-04-28",
+        "Level": "良",
+        "AQI": "93"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-04-27",
+        "Level": "良",
+        "AQI": "81"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-04-26",
+        "Level": "良",
+        "AQI": "78"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-04-25",
+        "Level": "轻度污染",
+        "AQI": "142"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-04-24",
+        "Level": "轻度污染",
+        "AQI": "113"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-04-23",
+        "Level": "轻度污染",
+        "AQI": "102"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-04-22",
+        "Level": "轻度污染",
+        "AQI": "109"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-04-21",
+        "Level": "良",
+        "AQI": "82"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2015-04-20",
+        "Level": "良",
+        "AQI": "51"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-04-19",
+        "Level": "良",
+        "AQI": "98"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2015-04-17",
+        "Level": "轻度污染",
+        "AQI": "101"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2015-04-16",
+        "Level": "良",
+        "AQI": "84"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-04-15",
+        "Level": "良",
+        "AQI": "75"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-04-14",
+        "Level": "良",
+        "AQI": "72"
+    },
+    {
+        "Pollutant": "PM10,臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-04-13",
+        "Level": "良",
+        "AQI": "57"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-04-12",
+        "Level": "良",
+        "AQI": "92"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-04-11",
+        "Level": "良",
+        "AQI": "74"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-04-10",
+        "Level": "良",
+        "AQI": "99"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-04-09",
+        "Level": "良",
+        "AQI": "63"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-04-08",
+        "Level": "良",
+        "AQI": "64"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2015-04-07",
+        "Level": "优",
+        "AQI": "44"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2015-04-06",
+        "Level": "优",
+        "AQI": "43"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-04-05",
+        "Level": "轻度污染",
+        "AQI": "107"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-04-04",
+        "Level": "良",
+        "AQI": "87"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-04-03",
+        "Level": "良",
+        "AQI": "90"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2015-04-02",
+        "Level": "良",
+        "AQI": "62"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-04-01",
+        "Level": "良",
+        "AQI": "90"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-03-31",
+        "Level": "良",
+        "AQI": "64"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-30",
+        "Level": "轻度污染",
+        "AQI": "103"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-29",
+        "Level": "轻度污染",
+        "AQI": "108"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-28",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-03-27",
+        "Level": "良",
+        "AQI": "67"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-03-26",
+        "Level": "良",
+        "AQI": "72"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-03-25",
+        "Level": "良",
+        "AQI": "61"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2015-03-24",
+        "Level": "优",
+        "AQI": "48"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2015-03-23",
+        "Level": "良",
+        "AQI": "73"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2015-03-22",
+        "Level": "良",
+        "AQI": "81"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-21",
+        "Level": "良",
+        "AQI": "63"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-20",
+        "Level": "轻度污染",
+        "AQI": "110"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-19",
+        "Level": "良",
+        "AQI": "75"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-03-18",
+        "Level": "良",
+        "AQI": "68"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-17",
+        "Level": "轻度污染",
+        "AQI": "124"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-16",
+        "Level": "良",
+        "AQI": "83"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-15",
+        "Level": "良",
+        "AQI": "87"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-14",
+        "Level": "轻度污染",
+        "AQI": "140"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-13",
+        "Level": "轻度污染",
+        "AQI": "105"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-12",
+        "Level": "轻度污染",
+        "AQI": "113"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-03-11",
+        "Level": "良",
+        "AQI": "89"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2015-03-10",
+        "Level": "良",
+        "AQI": "56"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-09",
+        "Level": "良",
+        "AQI": "85"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-03-08",
+        "Level": "良",
+        "AQI": "74"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-07",
+        "Level": "轻度污染",
+        "AQI": "102"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-06",
+        "Level": "良",
+        "AQI": "82"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-03-05",
+        "Level": "良",
+        "AQI": "58"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2015-03-04",
+        "Level": "良",
+        "AQI": "61"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-03",
+        "Level": "轻度污染",
+        "AQI": "102"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-03-02",
+        "Level": "良",
+        "AQI": "74"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2015-03-01",
+        "Level": "良",
+        "AQI": "51"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2015-02-28",
+        "Level": "优",
+        "AQI": "40"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2015-02-27",
+        "Level": "优",
+        "AQI": "37"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-26",
+        "Level": "良",
+        "AQI": "74"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2015-02-25",
+        "Level": "优",
+        "AQI": "42"
+    },
+    {
+        "Pollutant": "PM10,PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-24",
+        "Level": "良",
+        "AQI": "64"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-23",
+        "Level": "良",
+        "AQI": "95"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-22",
+        "Level": "轻度污染",
+        "AQI": "107"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2015-02-21",
+        "Level": "优",
+        "AQI": "45"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2015-02-20",
+        "Level": "优",
+        "AQI": "49"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-19",
+        "Level": "良",
+        "AQI": "63"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2015-02-18",
+        "Level": "良",
+        "AQI": "85"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-17",
+        "Level": "中度污染",
+        "AQI": "179"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-16",
+        "Level": "轻度污染",
+        "AQI": "134"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-15",
+        "Level": "良",
+        "AQI": "67"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-14",
+        "Level": "轻度污染",
+        "AQI": "124"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-13",
+        "Level": "中度污染",
+        "AQI": "185"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-12",
+        "Level": "轻度污染",
+        "AQI": "104"
+    },
+    {
+        "Pollutant": "NO2,PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-11",
+        "Level": "良",
+        "AQI": "83"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-02-10",
+        "Level": "良",
+        "AQI": "79"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-02-09",
+        "Level": "良",
+        "AQI": "58"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-08",
+        "Level": "轻度污染",
+        "AQI": "103"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-07",
+        "Level": "良",
+        "AQI": "100"
+    },
+    {
+        "Pollutant": "NO2,PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-06",
+        "Level": "良",
+        "AQI": "83"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-05",
+        "Level": "轻度污染",
+        "AQI": "114"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-04",
+        "Level": "轻度污染",
+        "AQI": "138"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-03",
+        "Level": "轻度污染",
+        "AQI": "107"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-02-02",
+        "Level": "轻度污染",
+        "AQI": "135"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-02-01",
+        "Level": "良",
+        "AQI": "69"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-31",
+        "Level": "良",
+        "AQI": "97"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-30",
+        "Level": "良",
+        "AQI": "79"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-01-29",
+        "Level": "良",
+        "AQI": "72"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-01-28",
+        "Level": "良",
+        "AQI": "62"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-27",
+        "Level": "轻度污染",
+        "AQI": "104"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-26",
+        "Level": "重度污染",
+        "AQI": "228"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-26",
+        "Level": "重度污染",
+        "AQI": "228"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-25",
+        "Level": "重度污染",
+        "AQI": "228"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-24",
+        "Level": "中度污染",
+        "AQI": "185"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-23",
+        "Level": "重度污染",
+        "AQI": "202"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-22",
+        "Level": "中度污染",
+        "AQI": "162"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-21",
+        "Level": "轻度污染",
+        "AQI": "107"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-20",
+        "Level": "轻度污染",
+        "AQI": "102"
+    },
+    {
+        "Pollutant": "PM10,PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-19",
+        "Level": "良",
+        "AQI": "98"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-18",
+        "Level": "轻度污染",
+        "AQI": "143"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-17",
+        "Level": "中度污染",
+        "AQI": "199"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-16",
+        "Level": "轻度污染",
+        "AQI": "122"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-15",
+        "Level": "良",
+        "AQI": "73"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-01-14",
+        "Level": "良",
+        "AQI": "55"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2015-01-13",
+        "Level": "良",
+        "AQI": "80"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-12",
+        "Level": "良",
+        "AQI": "94"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-11",
+        "Level": "轻度污染",
+        "AQI": "134"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-10",
+        "Level": "中度污染",
+        "AQI": "173"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-09",
+        "Level": "中度污染",
+        "AQI": "165"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-08",
+        "Level": "轻度污染",
+        "AQI": "119"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-07",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-06",
+        "Level": "中度污染",
+        "AQI": "163"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-05",
+        "Level": "中度污染",
+        "AQI": "162"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-04",
+        "Level": "轻度污染",
+        "AQI": "124"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-03",
+        "Level": "轻度污染",
+        "AQI": "134"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2015-01-02",
+        "Level": "良",
+        "AQI": "92"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2015-01-01",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-12-31",
+        "Level": "轻度污染",
+        "AQI": "102"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-30",
+        "Level": "良",
+        "AQI": "95"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-29",
+        "Level": "轻度污染",
+        "AQI": "108"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-28",
+        "Level": "轻度污染",
+        "AQI": "124"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-27",
+        "Level": "良",
+        "AQI": "90"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-12-26",
+        "Level": "良",
+        "AQI": "69"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-25",
+        "Level": "轻度污染",
+        "AQI": "132"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-24",
+        "Level": "轻度污染",
+        "AQI": "143"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-23",
+        "Level": "轻度污染",
+        "AQI": "125"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-22",
+        "Level": "良",
+        "AQI": "94"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-21",
+        "Level": "良",
+        "AQI": "94"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-20",
+        "Level": "轻度污染",
+        "AQI": "103"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-19",
+        "Level": "轻度污染",
+        "AQI": "127"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-18",
+        "Level": "良",
+        "AQI": "99"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-12-17",
+        "Level": "良",
+        "AQI": "69"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-12-16",
+        "Level": "良",
+        "AQI": "97"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-15",
+        "Level": "轻度污染",
+        "AQI": "143"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-14",
+        "Level": "轻度污染",
+        "AQI": "117"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-12-13",
+        "Level": "良",
+        "AQI": "81"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-12-12",
+        "Level": "轻度污染",
+        "AQI": "114"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-11",
+        "Level": "轻度污染",
+        "AQI": "143"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-10",
+        "Level": "良",
+        "AQI": "79"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-09",
+        "Level": "良",
+        "AQI": "99"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-08",
+        "Level": "中度污染",
+        "AQI": "152"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-07",
+        "Level": "轻度污染",
+        "AQI": "115"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-12-06",
+        "Level": "轻度污染",
+        "AQI": "101"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-12-05",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-04",
+        "Level": "良",
+        "AQI": "74"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-12-03",
+        "Level": "轻度污染",
+        "AQI": "112"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-12-02",
+        "Level": "良",
+        "AQI": "88"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-12-01",
+        "Level": "良",
+        "AQI": "94"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-29",
+        "Level": "轻度污染",
+        "AQI": "114"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-28",
+        "Level": "良",
+        "AQI": "83"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-11-27",
+        "Level": "良",
+        "AQI": "89"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-26",
+        "Level": "良",
+        "AQI": "84"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-11-25",
+        "Level": "良",
+        "AQI": "55"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-11-24",
+        "Level": "轻度污染",
+        "AQI": "112"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-23",
+        "Level": "中度污染",
+        "AQI": "173"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-22",
+        "Level": "中度污染",
+        "AQI": "155"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-20",
+        "Level": "轻度污染",
+        "AQI": "135"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-19",
+        "Level": "轻度污染",
+        "AQI": "140"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-18",
+        "Level": "轻度污染",
+        "AQI": "115"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-17",
+        "Level": "轻度污染",
+        "AQI": "144"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-16",
+        "Level": "轻度污染",
+        "AQI": "140"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-15",
+        "Level": "轻度污染",
+        "AQI": "107"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-14",
+        "Level": "轻度污染",
+        "AQI": "105"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-13",
+        "Level": "良",
+        "AQI": "92"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-12",
+        "Level": "中度污染",
+        "AQI": "175"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-11",
+        "Level": "轻度污染",
+        "AQI": "145"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-10",
+        "Level": "轻度污染",
+        "AQI": "127"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-11-09",
+        "Level": "良",
+        "AQI": "72"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-11-08",
+        "Level": "良",
+        "AQI": "64"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-07",
+        "Level": "良",
+        "AQI": "97"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-06",
+        "Level": "良",
+        "AQI": "98"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-05",
+        "Level": "轻度污染",
+        "AQI": "122"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-11-04",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-11-03",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-02",
+        "Level": "良",
+        "AQI": "84"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-11-01",
+        "Level": "良",
+        "AQI": "62"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-10-31",
+        "Level": "良",
+        "AQI": "73"
+    },
+    {
+        "Pollutant": "NO2,PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-30",
+        "Level": "良",
+        "AQI": "92"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-10-29",
+        "Level": "良",
+        "AQI": "83"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-10-28",
+        "Level": "良",
+        "AQI": "67"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-27",
+        "Level": "轻度污染",
+        "AQI": "117"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-26",
+        "Level": "轻度污染",
+        "AQI": "104"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-25",
+        "Level": "良",
+        "AQI": "95"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-24",
+        "Level": "良",
+        "AQI": "92"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-23",
+        "Level": "轻度污染",
+        "AQI": "129"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-22",
+        "Level": "良",
+        "AQI": "99"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-21",
+        "Level": "轻度污染",
+        "AQI": "107"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-20",
+        "Level": "良",
+        "AQI": "93"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-19",
+        "Level": "良",
+        "AQI": "73"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-10-18",
+        "Level": "良",
+        "AQI": "77"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-17",
+        "Level": "轻度污染",
+        "AQI": "148"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-16",
+        "Level": "轻度污染",
+        "AQI": "132"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-15",
+        "Level": "轻度污染",
+        "AQI": "115"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-14",
+        "Level": "良",
+        "AQI": "81"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-10-13",
+        "Level": "良",
+        "AQI": "66"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-12",
+        "Level": "良",
+        "AQI": "84"
+    },
+    {
+        "Pollutant": "PM2.5,臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-11",
+        "Level": "良",
+        "AQI": "72"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-10",
+        "Level": "良",
+        "AQI": "72"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-09",
+        "Level": "良",
+        "AQI": "87"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-08",
+        "Level": "良",
+        "AQI": "78"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-07",
+        "Level": "良",
+        "AQI": "85"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-06",
+        "Level": "良",
+        "AQI": "96"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-05",
+        "Level": "良",
+        "AQI": "85"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-04",
+        "Level": "良",
+        "AQI": "90"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-03",
+        "Level": "轻度污染",
+        "AQI": "112"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-10-02",
+        "Level": "良",
+        "AQI": "80"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-10-01",
+        "Level": "良",
+        "AQI": "63"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-09-30",
+        "Level": "良",
+        "AQI": "55"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-09-29",
+        "Level": "良",
+        "AQI": "74"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-28",
+        "Level": "轻度污染",
+        "AQI": "110"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-27",
+        "Level": "轻度污染",
+        "AQI": "123"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-26",
+        "Level": "轻度污染",
+        "AQI": "106"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-09-25",
+        "Level": "良",
+        "AQI": "98"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-09-24",
+        "Level": "良",
+        "AQI": "56"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-09-23",
+        "Level": "优",
+        "AQI": "33"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-09-22",
+        "Level": "优",
+        "AQI": "38"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-21",
+        "Level": "良",
+        "AQI": "63"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-20",
+        "Level": "良",
+        "AQI": "100"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-09-19",
+        "Level": "良",
+        "AQI": "55"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-18",
+        "Level": "良",
+        "AQI": "52"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-17",
+        "Level": "轻度污染",
+        "AQI": "109"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-16",
+        "Level": "良",
+        "AQI": "52"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-15",
+        "Level": "良",
+        "AQI": "55"
+    },
+    {
+        "Pollutant": "NO2,PM10",
+        "City": "杭州市",
+        "Date": "2014-09-14",
+        "Level": "良",
+        "AQI": "52"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-09-13",
+        "Level": "良",
+        "AQI": "52"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-12",
+        "Level": "良",
+        "AQI": "90"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-09-11",
+        "Level": "良",
+        "AQI": "57"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-09-10",
+        "Level": "良",
+        "AQI": "72"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-09-09",
+        "Level": "良",
+        "AQI": "67"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-09-08",
+        "Level": "良",
+        "AQI": "85"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-07",
+        "Level": "良",
+        "AQI": "94"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-06",
+        "Level": "良",
+        "AQI": "90"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-05",
+        "Level": "中度污染",
+        "AQI": "168"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-09-04",
+        "Level": "轻度污染",
+        "AQI": "118"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-09-03",
+        "Level": "优",
+        "AQI": "47"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-09-02",
+        "Level": "良",
+        "AQI": "55"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-09-01",
+        "Level": "良",
+        "AQI": "58"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-31",
+        "Level": "轻度污染",
+        "AQI": "116"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-30",
+        "Level": "轻度污染",
+        "AQI": "107"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-08-29",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-28",
+        "Level": "轻度污染",
+        "AQI": "109"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-08-27",
+        "Level": "良",
+        "AQI": "64"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-08-26",
+        "Level": "轻度污染",
+        "AQI": "108"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-25",
+        "Level": "良",
+        "AQI": "86"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-24",
+        "Level": "良",
+        "AQI": "66"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-08-23",
+        "Level": "良",
+        "AQI": "82"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-22",
+        "Level": "轻度污染",
+        "AQI": "117"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-21",
+        "Level": "轻度污染",
+        "AQI": "120"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-08-20",
+        "Level": "良",
+        "AQI": "55"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-08-19",
+        "Level": "良",
+        "AQI": "60"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-08-18",
+        "Level": "良",
+        "AQI": "53"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-08-17",
+        "Level": "优",
+        "AQI": "42"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-08-16",
+        "Level": "良",
+        "AQI": "75"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-08-15",
+        "Level": "良",
+        "AQI": "57"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-08-14",
+        "Level": "优",
+        "AQI": "40"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-13",
+        "Level": "良",
+        "AQI": "90"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-08-12",
+        "Level": "良",
+        "AQI": "62"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-08-11",
+        "Level": "良",
+        "AQI": "95"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-08-10",
+        "Level": "良",
+        "AQI": "58"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-09",
+        "Level": "良",
+        "AQI": "74"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-08",
+        "Level": "良",
+        "AQI": "62"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-07",
+        "Level": "轻度污染",
+        "AQI": "108"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-08-06",
+        "Level": "轻度污染",
+        "AQI": "115"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-06-28",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-06-27",
+        "Level": "良",
+        "AQI": "67"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-06-26",
+        "Level": "良",
+        "AQI": "78"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-06-25",
+        "Level": "良",
+        "AQI": "59"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-06-24",
+        "Level": "良",
+        "AQI": "61"
+    },
+    {
+        "Pollutant": "PM10,PM2.5",
+        "City": "杭州市",
+        "Date": "2014-06-23",
+        "Level": "良",
+        "AQI": "64"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-06-22",
+        "Level": "优",
+        "AQI": "47"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-06-21",
+        "Level": "优",
+        "AQI": "41"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-06-20",
+        "Level": "优",
+        "AQI": "50"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-19",
+        "Level": "轻度污染",
+        "AQI": "123"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-06-18",
+        "Level": "良",
+        "AQI": "99"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-06-17",
+        "Level": "良",
+        "AQI": "63"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-16",
+        "Level": "良",
+        "AQI": "94"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-15",
+        "Level": "轻度污染",
+        "AQI": "120"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-14",
+        "Level": "中度污染",
+        "AQI": "184"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-13",
+        "Level": "轻度污染",
+        "AQI": "150"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-12",
+        "Level": "轻度污染",
+        "AQI": "130"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-11",
+        "Level": "良",
+        "AQI": "100"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-06-10",
+        "Level": "良",
+        "AQI": "52"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-09",
+        "Level": "良",
+        "AQI": "87"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-08",
+        "Level": "良",
+        "AQI": "95"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-07",
+        "Level": "中度污染",
+        "AQI": "178"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-06",
+        "Level": "中度污染",
+        "AQI": "154"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-05",
+        "Level": "轻度污染",
+        "AQI": "136"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-04",
+        "Level": "良",
+        "AQI": "92"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-03",
+        "Level": "良",
+        "AQI": "71"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-06-02",
+        "Level": "良",
+        "AQI": "73"
+    },
+    {
+        "Pollutant": "NO2,PM10",
+        "City": "杭州市",
+        "Date": "2014-06-01",
+        "Level": "良",
+        "AQI": "55"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-05-31",
+        "Level": "良",
+        "AQI": "51"
+    },
+    {
+        "Pollutant": "PM10,臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-05-30",
+        "Level": "良",
+        "AQI": "83"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-05-29",
+        "Level": "轻度污染",
+        "AQI": "138"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-05-28",
+        "Level": "轻度污染",
+        "AQI": "148"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-05-27",
+        "Level": "轻度污染",
+        "AQI": "119"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-05-26",
+        "Level": "轻度污染",
+        "AQI": "110"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-05-25",
+        "Level": "良",
+        "AQI": "72"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-05-24",
+        "Level": "良",
+        "AQI": "57"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-05-23",
+        "Level": "良",
+        "AQI": "60"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-05-22",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-05-21",
+        "Level": "中度污染",
+        "AQI": "159"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-05-20",
+        "Level": "良",
+        "AQI": "94"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-05-19",
+        "Level": "轻度污染",
+        "AQI": "103"
+    },
+    {
+        "Pollutant": "PM10,PM2.5",
+        "City": "杭州市",
+        "Date": "2014-05-18",
+        "Level": "良",
+        "AQI": "54"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-05-17",
+        "Level": "轻度污染",
+        "AQI": "102"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-05-16",
+        "Level": "轻度污染",
+        "AQI": "132"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-05-15",
+        "Level": "轻度污染",
+        "AQI": "117"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-05-14",
+        "Level": "良",
+        "AQI": "67"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-05-13",
+        "Level": "良",
+        "AQI": "93"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-05-12",
+        "Level": "良",
+        "AQI": "93"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-05-11",
+        "Level": "良",
+        "AQI": "57"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-05-10",
+        "Level": "良",
+        "AQI": "64"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-05-09",
+        "Level": "轻度污染",
+        "AQI": "108"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-05-08",
+        "Level": "轻度污染",
+        "AQI": "125"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-05-07",
+        "Level": "良",
+        "AQI": "90"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-05-06",
+        "Level": "良",
+        "AQI": "68"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-05-05",
+        "Level": "良",
+        "AQI": "77"
+    },
+    {
+        "Pollutant": "NO2,PM10",
+        "City": "杭州市",
+        "Date": "2014-05-04",
+        "Level": "良",
+        "AQI": "78"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-05-03",
+        "Level": "良",
+        "AQI": "93"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-05-02",
+        "Level": "轻度污染",
+        "AQI": "106"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-05-01",
+        "Level": "良",
+        "AQI": "100"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-04-30",
+        "Level": "轻度污染",
+        "AQI": "109"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-04-29",
+        "Level": "良",
+        "AQI": "79"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-04-28",
+        "Level": "良",
+        "AQI": "61"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-04-27",
+        "Level": "优",
+        "AQI": "45"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-04-26",
+        "Level": "良",
+        "AQI": "83"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-04-25",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-04-24",
+        "Level": "良",
+        "AQI": "83"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-04-23",
+        "Level": "良",
+        "AQI": "78"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-04-22",
+        "Level": "良",
+        "AQI": "67"
+    },
+    {
+        "Pollutant": "NO2,PM2.5",
+        "City": "杭州市",
+        "Date": "2014-04-21",
+        "Level": "良",
+        "AQI": "57"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-04-20",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-04-19",
+        "Level": "良",
+        "AQI": "59"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-04-18",
+        "Level": "轻度污染",
+        "AQI": "109"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-04-17",
+        "Level": "轻度污染",
+        "AQI": "148"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-04-16",
+        "Level": "良",
+        "AQI": "88"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-04-15",
+        "Level": "良",
+        "AQI": "89"
+    },
+    {
+        "Pollutant": "臭氧8小时",
+        "City": "杭州市",
+        "Date": "2014-04-14",
+        "Level": "良",
+        "AQI": "79"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-03-07",
+        "Level": "良",
+        "AQI": "59"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-03-06",
+        "Level": "良",
+        "AQI": "52"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-03-05",
+        "Level": "良",
+        "AQI": "93"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-03-04",
+        "Level": "良",
+        "AQI": "77"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-03-03",
+        "Level": "良",
+        "AQI": "60"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-03-02",
+        "Level": "轻度污染",
+        "AQI": "105"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-03-01",
+        "Level": "良",
+        "AQI": "59"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-28",
+        "Level": "轻度污染",
+        "AQI": "109"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-27",
+        "Level": "轻度污染",
+        "AQI": "129"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-02-26",
+        "Level": "良",
+        "AQI": "69"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-02-25",
+        "Level": "良",
+        "AQI": "78"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-24",
+        "Level": "轻度污染",
+        "AQI": "134"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-23",
+        "Level": "良",
+        "AQI": "94"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-22",
+        "Level": "中度污染",
+        "AQI": "153"
+    },
+    {
+        "Pollutant": "细颗粒物(PM2.5)",
+        "City": "杭州市",
+        "Date": "2014-02-21",
+        "Level": "中度污染",
+        "AQI": "153"
+    },
+    {
+        "Pollutant": "细颗粒物(PM2.5)",
+        "City": "杭州市",
+        "Date": "2014-02-20",
+        "Level": "良",
+        "AQI": "85"
+    },
+    {
+        "Pollutant": "细颗粒物(PM2.5)",
+        "City": "杭州市",
+        "Date": "2014-02-19",
+        "Level": "良",
+        "AQI": "77"
+    },
+    {
+        "Pollutant": "二氧化氮",
+        "City": "杭州市",
+        "Date": "2014-02-18",
+        "Level": "良",
+        "AQI": "57"
+    },
+    {
+        "Pollutant": "二氧化氮",
+        "City": "杭州市",
+        "Date": "2014-02-17",
+        "Level": "良",
+        "AQI": "63"
+    },
+    {
+        "Pollutant": "二氧化氮",
+        "City": "杭州市",
+        "Date": "2014-02-16",
+        "Level": "良",
+        "AQI": "77"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-15",
+        "Level": "轻度污染",
+        "AQI": "113"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-14",
+        "Level": "良",
+        "AQI": "89"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-13",
+        "Level": "良",
+        "AQI": "63"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-12",
+        "Level": "良",
+        "AQI": "85"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-11",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-02-10",
+        "Level": "优",
+        "AQI": "46"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-09",
+        "Level": "良",
+        "AQI": "79"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-08",
+        "Level": "良",
+        "AQI": "70"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-02-07",
+        "Level": "优",
+        "AQI": "32"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-02-06",
+        "Level": "优",
+        "AQI": "39"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-02-05",
+        "Level": "优",
+        "AQI": "38"
+    },
+    {
+        "Pollutant": "",
+        "City": "杭州市",
+        "Date": "2014-02-04",
+        "Level": "优",
+        "AQI": "42"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-03",
+        "Level": "良",
+        "AQI": "79"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-02",
+        "Level": "重度污染",
+        "AQI": "245"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-02-01",
+        "Level": "良",
+        "AQI": "95"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-31",
+        "Level": "重度污染",
+        "AQI": "244"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-30",
+        "Level": "重度污染",
+        "AQI": "211"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-29",
+        "Level": "轻度污染",
+        "AQI": "112"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-28",
+        "Level": "轻度污染",
+        "AQI": "123"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-01-27",
+        "Level": "良",
+        "AQI": "53"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-26",
+        "Level": "良",
+        "AQI": "78"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-25",
+        "Level": "中度污染",
+        "AQI": "169"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-01-24",
+        "Level": "良",
+        "AQI": "74"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-23",
+        "Level": "轻度污染",
+        "AQI": "103"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-22",
+        "Level": "良",
+        "AQI": "88"
+    },
+    {
+        "Pollutant": "PM10",
+        "City": "杭州市",
+        "Date": "2014-01-21",
+        "Level": "良",
+        "AQI": "88"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-20",
+        "Level": "轻度污染",
+        "AQI": "133"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-19",
+        "Level": "重度污染",
+        "AQI": "244"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-18",
+        "Level": "重度污染",
+        "AQI": "282"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-17",
+        "Level": "中度污染",
+        "AQI": "172"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-16",
+        "Level": "轻度污染",
+        "AQI": "120"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-15",
+        "Level": "轻度污染",
+        "AQI": "104"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-14",
+        "Level": "良",
+        "AQI": "88"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-13",
+        "Level": "轻度污染",
+        "AQI": "125"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-12",
+        "Level": "良",
+        "AQI": "80"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-11",
+        "Level": "良",
+        "AQI": "89"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-10",
+        "Level": "良",
+        "AQI": "100"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-09",
+        "Level": "良",
+        "AQI": "68"
+    },
+    {
+        "Pollutant": "NO2",
+        "City": "杭州市",
+        "Date": "2014-01-08",
+        "Level": "良",
+        "AQI": "62"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-07",
+        "Level": "轻度污染",
+        "AQI": "150"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-06",
+        "Level": "中度污染",
+        "AQI": "188"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-05",
+        "Level": "重度污染",
+        "AQI": "243"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-04",
+        "Level": "重度污染",
+        "AQI": "220"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-03",
+        "Level": "中度污染",
+        "AQI": "172"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-02",
+        "Level": "中度污染",
+        "AQI": "160"
+    },
+    {
+        "Pollutant": "PM2.5",
+        "City": "杭州市",
+        "Date": "2014-01-01",
+        "Level": "轻度污染",
+        "AQI": "119"
+    }
+]

@@ -1,0 +1,21 @@
+<ion-view view-title="新闻">
+    <ion-content>
+        <div class="list">
+            <div ng-repeat="new in news">
+
+            <a class="item item-thumbnail-left item-icon-right" href="#tab/topics/news/{{new.NewsId}}">
+                <img img-cache ic-src="{{srvUrl + new.ImgPath}}">
+                <h2>{{new.Title}}</h2>
+                <p>{{new.PublishedDate}}</p>
+                <p>来源: 浙江日报(杭州)</p>
+                <div ng-switch on="new.Text[0].length">
+                    <p ng-switch-when="1">{{new.Text}}</p>
+                    <p ng-switch-default>{{new.Text[0]}}</p>
+                </div>
+                <i class="icon ion-chevron-right icon-accessory"></i>
+            </a>
+
+            </div>
+        </div>
+    </ion-content>
+</ion-view>
